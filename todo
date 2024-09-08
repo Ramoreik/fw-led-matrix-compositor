@@ -1,0 +1,13 @@
+
+# TODO: Handle collision 
+# I have no clue how i would calculate deviation
+# adding vectors isnt too hard this should be easy
+# * this is gravy !
+
+# TODO: Handle a custom reaction for an element when meeting a border
+# LIKE: Changing direction
+# OR: Wrapping around like a mario game
+
+# TODO: Convert an existing image into a class usable by this app.
+# BONUS: Add it for a dir of frames (using the 'tick' method)
+#
