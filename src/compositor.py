@@ -126,7 +126,7 @@ class Compositor:
 
             for position in positions:
                 x, y  = position
-                if abs(x) < xd and abs(y) < yd:
+                if ( abs(x) < xd and y >= 0 ) and ( abs(y) < yd and y >= 0 ):
                     pixels[x, y] = self.WHITE
                 else:
                     # out of bounds counter
