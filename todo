@@ -11,3 +11,6 @@
 # TODO: Convert an existing image into a class usable by this app.
 # BONUS: Add it for a dir of frames (using the 'tick' method)
 #
+
+# TODO: 
+# Try to incoporate the call to `display-bw` directly in this script instead of launching `inputmodule-control`
